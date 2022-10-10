@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Pizza/static/css/main.b00b9a7d.css",
+    "main.js": "/React-Pizza/static/js/main.efeab3ce.js",
+    "static/media/proximanova_regular.ttf": "/React-Pizza/static/media/proximanova_regular.8181ca4b7c2d1189d78a.ttf",
+    "static/media/proximanova_extrabold.otf": "/React-Pizza/static/media/proximanova_extrabold.4b4dcc64004a8654a484.otf",
+    "static/media/proximanova_bold.otf": "/React-Pizza/static/media/proximanova_bold.fcaab2524c5baabd71f6.otf",
+    "static/media/empty-cart.png": "/React-Pizza/static/media/empty-cart.5d135f9e8394c78608a5.png",
+    "static/media/cart-gray.svg": "/React-Pizza/static/media/cart-gray.dcd5168086a25b3307ba9f5524ca6e70.svg",
+    "static/media/cart.svg": "/React-Pizza/static/media/cart.d05720f2b474db2145233cd2ce1d4e91.svg",
+    "static/media/trash.svg": "/React-Pizza/static/media/trash.ceafcffb34cece0b1462c3505b170d88.svg",
+    "index.html": "/React-Pizza/index.html",
+    "static/media/close.svg": "/React-Pizza/static/media/close.7696257a3cd8715ab8e7d99d90872982.svg",
+    "static/media/sort-down.svg": "/React-Pizza/static/media/sort-down.768bfaa95da6804d10469cdbf99d7c39.svg",
+    "static/media/sort-up.svg": "/React-Pizza/static/media/sort-up.8a732a7211d0fa00bfd63712369e29cc.svg",
+    "static/media/plus.svg": "/React-Pizza/static/media/plus.dcca509e467c41efa81e.svg",
+    "static/media/plus-white.svg": "/React-Pizza/static/media/plus-white.fd8c3c804f350e470486.svg",
+    "static/media/back.svg": "/React-Pizza/static/media/back.fc29ec73901b6f8218c91a0d69592416.svg",
+    "main.b00b9a7d.css.map": "/React-Pizza/static/css/main.b00b9a7d.css.map",
+    "main.efeab3ce.js.map": "/React-Pizza/static/js/main.efeab3ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b00b9a7d.css",
+    "static/js/main.efeab3ce.js"
+  ]
+}
